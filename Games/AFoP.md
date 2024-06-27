@@ -32,7 +32,7 @@
 <br>
     <img src="../img/AFoP3.png" width="50%">
 <br>
-    <img src="../img/AFPo4.png" width="50%">
+    <img src="../img/AFoP4.png" width="50%">
 
 ## 前言
 
