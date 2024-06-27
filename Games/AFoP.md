@@ -84,4 +84,4 @@ AFoP v1.1-HotFix 是由社区开发并维护的修改版本。《Minecraft》是
 
 ---
 
-返回 [README.md](../../README.md)
+返回 [README.md](../README.md)
