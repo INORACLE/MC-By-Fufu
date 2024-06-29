@@ -4,7 +4,8 @@
 
 ## 游戏列表
 
-### 1. AFoP v1.1-HotFix
+<details>
+<summary><strong>1. A Fragment of Peace（AFoP）即将完结</strong></summary>
 
 AFoP v1.1-HotFix 是一个以农夫乐事系列为核心，我们来吧，凡家物语，静谧四季等为附属的慢节奏养老休闲整合包。
 
@@ -19,15 +20,39 @@ AFoP v1.1-HotFix 是一个以农夫乐事系列为核心，我们来吧，凡家
 
 详细信息请查看 [AFoP v1.1-HotFix 的介绍](./Games/AFoP.md)。
 
-### 2. 其他游戏（待添加）
-
-更多精彩内容，敬请期待！
-
-欢迎贡献和建议，让我们一起打造一个丰富多彩的《我的世界》整合包！
+</details>
 
 ---
 
-**Minecraft聊天群：695596638** 
+<details>
+<summary><strong>2. （ATM10）七月开服</strong></summary>
+
+ATM10 全名为All the mods 10意为所有模组整合包（很多就是啦）
+
+所有的模组最初都是作者几个朋友的私人包，后来变成了其他人想玩的东西！它拥有大多数其他“大牌”包所包含的所有基础知识，但也很好地混合了一些较新或鲜为人知的模组
+
+这次最大的变化是作者现在使用 NeoForge 和 EMI，使用的是 1.21 版本。随着模组的出现，期待许多更新！
+
+详细信息请查看 [ATM10 的介绍](./Games/ATM10.md)。
+
+</details>
+
+---
+
+<details>
+<summary><strong>3. 其他游戏（待添加）</strong></summary>
+
+更多精彩内容，敬请期待！
+
+欢迎贡献和建议，让我们一起游玩一个丰富多彩的Minecraft整合包！
+
+</details>
+
+---
+
+**Minecraft聊天群：** [695596638](https://qm.qq.com/q/1Q23rIRpbW)
+
+---
 
 # 免责声明
 
