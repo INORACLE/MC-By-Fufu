@@ -21,7 +21,7 @@
 
 ## 配置要求
 
-- Java版本：推荐Java17
+- Java版本：[Java17+](https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.msi)
 - 最低内存分配：3.5G
 - 推荐内存分配：6.0G-12G
 
