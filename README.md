@@ -5,7 +5,7 @@
 ## 游戏列表
 
 <details>
-<summary><strong>1. A Fragment of Peace（AFoP）即将完结</strong></summary>
+<summary><strong>1. A Fragment of Peace（AFoP）已完结</strong></summary>
 
 AFoP v1.1-HotFix 是一个以农夫乐事系列为核心，我们来吧，凡家物语，静谧四季等为附属的慢节奏养老休闲整合包。
 
@@ -25,15 +25,19 @@ AFoP v1.1-HotFix 是一个以农夫乐事系列为核心，我们来吧，凡家
 ---
 
 <details>
-<summary><strong>2. （ATM10）七月开服</strong></summary>
+<summary><strong>2. （ATM9）即将开服</strong></summary>
 
-ATM10 全名为All the mods 10意为所有模组整合包（很多就是啦）
+ATM9 全名为All the mods 9意为所有模组整合包（很多就是辣~）
 
-所有的模组最初都是作者几个朋友的私人包，后来变成了其他人想玩的东西！它拥有大多数其他“大牌”包所包含的所有基础知识，但也很好地混合了一些较新或鲜为人知的模组
+ATM9包含了近400个模组，无数的任务以及一个内置的适当的终极挑战。你能制作出ATM之星吗?你敢挑战格雷之星吗?
 
-这次最大的变化是作者现在使用 NeoForge 和 EMI，使用的是 1.21 版本。随着模组的出现，期待许多更新！
+- **游戏特点**：
+  - **大量模组整合**：大量mod来改变你的游戏的体验和玩法。
+  - **技术与魔法结合**：选择不同的方式来探索和进步。
+  - **探索与冒险**：与朋友一起探索新的维度和任务吧。
+  - **资源采集与加工**：探索和利用资源来制造强大的工具和设备。
 
-详细信息请查看 [ATM10 的介绍](./Games/ATM10.md)。
+详细信息请查看 [ATM9 的介绍](./Games/ATM9.md)。
 
 </details>
 
