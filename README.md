@@ -25,7 +25,7 @@ AFoP v1.1-HotFix 是一个以农夫乐事系列为核心，我们来吧，凡家
 ---
 
 <details>
-<summary><strong>2. （ATM9）即将开服</strong></summary>
+<summary><strong>2. （ATM9）</strong></summary>
 
 ATM9 全名为All the mods 9意为所有模组整合包（很多就是辣~）
 
