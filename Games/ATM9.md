@@ -9,9 +9,11 @@
 
 ## 下载游戏
 
-你可以通过以下链接下载ATM9（即将开服，等待上传）：
+你可以通过以下链接下载ATM9：
 
-[点击这里下载 ATM9](https://github.com/INORACLE/MC-Fufu/releases/download/Minecraft/ATM9.zip)
+[通过Github下载 ATM9](https://github.com/INORACLE/MC-Fufu/releases/download/Minecraft/ATM9.zip)
+
+[通过Musetransfer下载 ATM9（国内网络推荐）](https://github.com/INORACLE/MC-Fufu/releases/download/Minecraft/ATM9.zip)
 
 ## 如何开始
 
@@ -21,9 +23,11 @@
 
 ## 配置要求
 
+本整合包非`No Frills`对配置有一定要求
+
 - Java版本：使用：[Java17+](https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.msi)
-- 最低内存分配：3.5G
-- 推荐内存分配：6.0G-12G
+- 最低内存分配：8.2G
+- 推荐内存分配：16-18G
 
 ## 前言
 
