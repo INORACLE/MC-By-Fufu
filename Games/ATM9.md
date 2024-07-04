@@ -3,7 +3,7 @@
     <img src="../img/ATM-9.png" width="80%">
 </div>
 
-# 欢迎来到ATM9 ATM9来一同挑战格雷之星吗吧~
+# 欢迎来到ATM9 ATM9来一同挑战格雷之星吗
 
 ## ATM9所支持的游戏版本Forge: 1.20/1.20.1
 
@@ -13,7 +13,7 @@
 
 [通过Github下载 ATM9](https://github.com/INORACLE/MC-Fufu/releases/download/Minecraft/ATM9.zip)
 
-[通过Musetransfer下载 ATM9（国内网络推荐）](https://github.com/INORACLE/MC-Fufu/releases/download/Minecraft/ATM9.zip)
+[通过Musetransfer下载 ATM9（国内网络推荐）](https://musetransfer.com/s/2axnmf0sa)
 
 ## 如何开始
 
@@ -27,7 +27,7 @@
 
 - Java版本：使用：[Java17+](https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.msi)
 - 最低内存分配：8.2G
-- 推荐内存分配：16-18G
+- 推荐内存分配：12-16G
 
 ## 前言
 
